@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:dangxproject/nzey-api.git
+[submodule "webapp"]
+	path = webapp
+	url = git@github.com:dangxproject/nzey-webapp.git
